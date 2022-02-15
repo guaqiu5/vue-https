@@ -1,4 +1,6 @@
-# vue-https
+# vue-https 字节青训营大作业
+
+## vue+vuex+jsrsasign+element-ui 模拟https流程
 
 ## Project setup
 ```
